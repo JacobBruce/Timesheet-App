@@ -1,0 +1,27 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 20px;
+  background-color: #ffffff;
+}
+
+.main-div {
+  width: 550px;
+  padding: 15px;
+  margin-left:200px;
+}
+
+.menu-div {
+  width: 200px;
+  padding: 15px;
+  position:absolute;
+  top:20px;
+  left:20px;
+}
+
+.lh-condensed { line-height: 1.25; }
